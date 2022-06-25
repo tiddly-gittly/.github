@@ -6,8 +6,8 @@
 
 <div align="center">
 
-![status](https://img.shields.io/badge/Maintain-TODO-blueviolet.svg?style=flat-square&logo=Chakra-Ui&color=90E59A&logoColor=green)
-![Github](https://img.shields.io/badge/Github-Yes-green.svg?style=flat-square&logo=github&label=Github&logoColor=cyan)
+<img src="https://img.shields.io/badge/Maintain-Yes-blueviolet.svg?style=flat-square&logo=Chakra-Ui&color=90E59A&logoColor=green" alt="status" >
+<img src="https://img.shields.io/badge/Github-Yes-green.svg?style=flat-square&logo=github&label=Github&logoColor=cyan" alt="github">
 
 </div>
 
