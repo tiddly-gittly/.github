@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="img/cat-logo.png" height="100">
+    <img src="profile/img/cat-logo.png" height="100">
 </div>
 
 <h1 align="center">Tiddly Gittly </h1>
